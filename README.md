@@ -97,6 +97,7 @@ Agents that resolve support tickets rather than deflecting them.
 - **[Gorgias](https://www.gorgias.com/)** — Support platform for online stores, with an agent that handles order and returns questions. `Paid` `Web` `API`
 - **[Parloa](https://www.parloa.com/)** — Voice and chat agents for contact centres, aimed at call handling rather than text-only support. `Paid` `Web` `API`
 - **[Sierra](https://sierra.ai/)** — Customer-facing agents built per company, with guardrails and outcome-based pricing. `Paid` `Web` `API`
+- **[Workforce Wave](https://www.workforcewave.com/)** — Voice agents that answer a business's inbound calls, take booking requests, and flag callbacks for staff follow-up. `Paid` `Free Trial`
 - **[Zendesk AI agents](https://www.zendesk.com/service/ai/)** — Zendesk's own resolution agents, useful mainly if the helpdesk is already there. `Paid` `Web` `API`
 
 ## Sales and outbound agents
