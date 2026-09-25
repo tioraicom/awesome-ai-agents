@@ -199,6 +199,7 @@ Seeing what an agent did, and telling whether it did it well.
 - **[Helicone](https://www.helicone.ai/)** — Proxy-based logging for model calls, with caching and cost attribution, self-hostable. `Open Source` `Web` `API`
 - **[Langfuse](https://langfuse.com/)** — Open-source tracing, evaluation, and prompt management, run as a service or on your own cluster. `Open Source` `Web` `API`
 - **[LangSmith](https://www.langchain.com/langsmith)** — Tracing and evaluation from the LangChain team, and framework-agnostic despite the origin. `Freemium` `Web` `API`
+- **[Noveum](https://noveum.ai/)** - Turns production agent traces into evaluation datasets for comparing model quality, latency, and cost. `Freemium` `Web` `API`
 - **[Phoenix](https://phoenix.arize.com/)** — Open-source tracing and evaluation built on OpenTelemetry, so it fits existing observability stacks. `Open Source` `Web` `API`
 - **[Weights & Biases Weave](https://wandb.ai/site/weave/)** — Tracing and evaluation for model applications, inside the experiment tracking many teams already run. `Freemium` `Web` `API`
 
