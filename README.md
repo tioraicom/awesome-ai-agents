@@ -3,7 +3,7 @@
 > A curated collection of AI agents, agent platforms, frameworks, and infrastructure.
 
 <!-- counts:start -->
-![Entries](https://img.shields.io/badge/entries-96-informational)
+![Entries](https://img.shields.io/badge/entries-97-informational)
 ![Categories](https://img.shields.io/badge/categories-12-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -144,6 +144,7 @@ Hosted builders for people who would rather not start from a library.
 - **[Dust](https://dust.tt/)** — Team platform for building agents over internal documents and tools, with per-agent permissions. `Paid` `Web` `API`
 - **[Flowise](https://flowiseai.com/)** — Drag-and-drop builder for agent and retrieval pipelines, self-hostable and source-available. `Freemium` `Web` `API`
 - **[Langflow](https://www.langflow.org/)** — Visual editor for agent flows that exports to Python, so the prototype is not a dead end. `Open Source` `Web` `API`
+- **[Tale](https://tale.dev/)** — Open-source, self-hostable workspace for teams and AI agents, with project tasks, persistent sandboxes, shared knowledge, and human review. `Open Source` `Web`
 - **[Vellum](https://www.vellum.ai/)** — Builds and versions agent workflows with evaluation attached, aimed at teams shipping to production. `Paid` `Web` `API`
 - **[Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)** — Google Cloud's managed agent stack, with grounding in Search and enterprise data connectors. `Paid` `Web` `API`
 
