@@ -67,6 +67,7 @@ Agents that drive a real browser or desktop rather than calling an API.
 
 - **[Browserbase](https://www.browserbase.com/)** — Hosted headless browsers for agents, with session recording, stealth options, and proxy handling. `Freemium` `Web` `API`
 - **[Browser Use](https://browser-use.com/)** — Library that lets an agent drive a real browser, with the page structure exposed as text. `Open Source` `API` `CLI`
+- **[Cloudbrowser](https://cloudbrowser.tv/)** — Persistent cloud browsers for AI agents, with isolated sessions, CDP access, lifecycle controls, and read-only desktop viewing. `Freemium` `Web` `API`
 - **[Hyperbrowser](https://www.hyperbrowser.ai/)** — Browser infrastructure for agents, with scraping, crawling, and session management behind one API. `Freemium` `Web` `API`
 - **[Notte](https://notte.cc/)** — Turns a web page into a structured action space an agent can navigate without brittle selectors. `Open Source` `API` `CLI`
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** — Microsoft's Model Context Protocol server exposing Playwright browser control to any compatible agent. `Open Source` `API` `CLI`
