@@ -129,6 +129,7 @@ Agents built into workflow tools, where a step can decide instead of following a
 - **[Dify](https://dify.ai/)** — Builds and hosts agent workflows with a visual editor, retrieval, and observability included. `Open Source` `Web` `API`
 - **[Gumloop](https://www.gumloop.com/)** — Node-based automation aimed at non-developers, with agent nodes for the steps that need judgement. `Freemium` `Web`
 - **[Lindy](https://www.lindy.ai/)** — Builds assistants that watch a trigger, then handle email, meetings, and follow-up without supervision. `Freemium` `Web`
+- **[LazyMind](https://github.com/LazyAGI/LazyMind)** — Turns reusable skills into observable workflows with approval checkpoints, editable artifacts, and step-level recovery. `Open Source` `Windows` `macOS`
 - **[Make](https://www.make.com/)** — Visual automation platform with agent modules that choose which scenario branch to run. `Freemium` `Web` `API` · [vs n8n](https://tiorai.com/compare/make-vs-n8n/)
 - **[n8n](https://n8n.io/)** — Source-available workflow automation you can self-host, with first-class agent and tool nodes. `Freemium` `Web` `API`
 - **[Relay.app](https://www.relay.app/)** — Automation with human approval steps built in, which matters when an agent acts on customer data. `Freemium` `Web`
